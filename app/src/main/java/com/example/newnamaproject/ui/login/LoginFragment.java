@@ -82,7 +82,7 @@ public class LoginFragment extends Fragment {
             System.out.println(email + " IS " + password);
             System.out.println(mAuth.signInWithEmailAndPassword(email, password));
             System.out.println(email + " IS " + password);
-
+//
 //            currentUser.addListenerForSingleValueEvent(new ValueEventListener() {
 //            @Override
 //            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
